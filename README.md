@@ -1,2 +1,14 @@
-# mi_primer_repo_sena_cristian_trujillo
-Actividad 1- En este repositorio trabajare lo aprendido en las clases de github en adso en el Sena
+# Mi primer repositorio con GitHub Desktop y Visual Studio Code
+   ## Autor
+   - Nombre: Cristian Danilo Trujillo Murcia
+   ## Descripción del proyecto
+   Este repositorio fue creado como práctica del SENA para aprender GitHub Desktop y Visual
+Studio Code.
+   ## Estructura del proyecto
+   - docs/notas.md: Notas de la práctica.
+   - src/main.py: Archivo principal de ejemplo.
+   - assets/img/portada.txt: Archivo que representa la carpeta de imágenes.
+   ## Tecnologías utilizadas
+   - GitHub
+   - GitHub Desktop
+   - Visual Studio Code
